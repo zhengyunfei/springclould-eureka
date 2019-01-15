@@ -17,3 +17,6 @@ eureka
 #### 博客
 
 1. 项目博客 [http://blog.01time.cn/detail.html?cid=266](http://blog.01time.cn/detail.html?cid=266)
+
+#### 项目结构图
+![Architecture](Architecture.png)
