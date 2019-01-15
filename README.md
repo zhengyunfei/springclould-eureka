@@ -4,8 +4,8 @@
 云端服务发现，一个基于 REST 的服务，用于定位服务，以实现云端中间层服务发现和故障转移
 
 #### 软件架构
-springclould
-eureka
+1. springclould
+2. eureka
 
 
 #### 服务介绍
